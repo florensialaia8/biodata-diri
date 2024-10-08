@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+     <meta charset="UTF-8" />
+     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+     <title>documen</title>
+<head>
+ <body>
+    <h1 align="center">Biodata Diri/florensia</h1>
+    <hr width="600px">
+    <table align="center"cellpadding="10px" width="600">
+        <tr>
+            <td>Nim</td>
+            <td>: 22100038</td>
+            <td></td>
+            </td>
+        </tr>
+        <tr>
+             <td>Nama </td>
+             <td>: florensia laia</td>
+        </tr>
+        <tr>
+            <td>kelas </td>
+            <td>: SI.603</td>
+        </tr>
+        <tr>
+
+            <td>jurusan </td>
+            <td>: sistem informasi</td>
+        </tr>
+        <tr>
+            <td>tempat/Tgl lakhir</td>
+            <td>: hilitobara,23 maret 2002</td>
+        </tr>
+        <tr>
+            <td>Agama</td>
+            <td>: khatolik</td>
+        </tr>
+        <tr>
+            <td>Alamat</td>
+            <td>: jl,sparman</td>
+        </tr>
+        <tr>
+            <td>telepon</td>
+            <td>: 085271065248</td>
+        </tr>
+    </table>
+ </body>
+</html>
+    
